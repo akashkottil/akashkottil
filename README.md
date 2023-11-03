@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://www.webstep.in/wp-content/uploads/2022/11/MicrosoftTeams-image-3.jpg" alt="MasterHead" width="100%">
 </div>
-<h1 align="center">Hi 👋, I'm Akash Kottil</h1>
+<h1 align="center">Hi 👋, I'm Akash Kottil </h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
 
