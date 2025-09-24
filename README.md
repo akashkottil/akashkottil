@@ -1,16 +1,18 @@
-# 👋 Hi, I'm Akash Kottil!  
+# 👋 Hey there, I'm Akash Kottil!  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=iOS+Developer+at+Lascade-Co+%7C+Flutter+%26+SwiftUI+Enthusiast+%7C+AI+Integration+%26+Web+Dev)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=5000&color=00F7FF&center=true&vCenter=true&width=600&lines=iOS+Developer+at+Lascade-Co;Code+Wizard+%26+Tech+Explorer;AI+Innovator" alt="Typing SVG"/>
+</div>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working as an **iOS Developer at Lascade LLP**
-- 🌱 I’m learning **SwiftUI, Flutter, Blockchain technologies, and AI integrations.**
-- 👯 I’m looking to collaborate on **Mobile Apps, AI projects, and Web Development.**
-- 💬 Ask me about **SwiftUI, Flutter, React, Node.js, Golang, Shopify, and Web Development.**
-- 📫 How to reach me: [thedeveloperkot@gmail.com](mailto:thedeveloperkot@gmail.com)
-- ⚡ Fun fact: I love **turning designs into interactive apps** and exploring **new tech trends**!
+- 🔭 Currently working as an **iOS Developer at Lascade LLP**
+- 🌱 Exploring **AI-powered apps, futuristic tech, and code wizardry**
+- 👯 Love collaborating on **cutting-edge mobile apps, web solutions, and automation tools**
+- 💬 Ask me about **SwiftUI, React, Node.js, Golang, Shopify, and modern web tech**
+- 📫 Reach me at: [thedeveloperkot@gmail.com](mailto:thedeveloperkot@gmail.com)
+- ⚡ Fun fact: I turn **coffee into code ☕💻** and love experimenting with **creative animations**!
 
 ---
 
@@ -34,22 +36,43 @@
 
 ## 🌟 My GitHub Stats
 
-[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashkottil&show_icons=true&theme=tokyonight&count_private=true&hide=issues)](https://github.com/akashkottil)
+<div align="center">
+  <!-- General GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akashkottil&show_icons=true&theme=tokyonight&count_private=true&hide=issues" alt="Akash's GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashkottil&theme=dark" alt="Top Languages Used"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkottil&layout=compact&theme=tokyonight)](https://github.com/akashkottil)
+<!-- GitHub Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashkottil&theme=dark" alt="GitHub Profile Summary"/>
+
+  
+
+
+</div>
+
+
 
 ---
 
+## 🎨 Fun & Classy Section
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Coding GIF"/>
+</div>
+
+### ⚡ Things I Love
+- ☕ Coffee & late-night coding marathons  
+- 🎨 Experimenting with UI animations & micro-interactions  
+- 🤖 AI projects that make life smarter  
+- 🌌 Learning about space, science, and futuristic tech  
+
+> “Keep calm and code on.” 😎
+
+---
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkottil)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akash_kottil)
-
----
-
-## 🎨 Fun Section
-
-![Coding GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
-
-> “Code is like humor. When you have to explain it, it’s bad.” 😄
