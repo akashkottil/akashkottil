@@ -1,42 +1,55 @@
-<div align="center">
-  <img src="https://www.webstep.in/wp-content/uploads/2022/11/MicrosoftTeams-image-3.jpg" alt="MasterHead" width="100%">
-</div>
-<h1 align="center">Hi 👋, I'm Akash Kottil </h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
+# 👋 Hi, I'm Akash Kottil!  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=iOS+Developer+at+Lascade-Co+%7C+Flutter+%26+SwiftUI+Enthusiast+%7C+AI+Integration+%26+Web+Dev)](https://git.io/typing-svg)
+
+---
+
+## 🚀 About Me
+- 🔭 I’m currently working as an **iOS Developer at Lascade LLP**
+- 🌱 I’m learning **SwiftUI, Flutter, Blockchain technologies, and AI integrations.**
+- 👯 I’m looking to collaborate on **Mobile Apps, AI projects, and Web Development.**
+- 💬 Ask me about **SwiftUI, Flutter, React, Node.js, Golang, Shopify, and Web Development.**
+- 📫 How to reach me: [thedeveloperkot@gmail.com](mailto:thedeveloperkot@gmail.com)
+- ⚡ Fun fact: I love **turning designs into interactive apps** and exploring **new tech trends**!
+
+---
+
+## 💻 Tech Stack
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌟 My GitHub Stats
+
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashkottil&show_icons=true&theme=tokyonight&count_private=true&hide=issues)](https://github.com/akashkottil)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkottil&layout=compact&theme=tokyonight)](https://github.com/akashkottil)
+
+---
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkottil&label=Profile%20views&color=0e75b6&style=flat" alt="akashkottil" /> </p>
+## 📫 Connect with Me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkottil)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akash_kottil)
 
-- 🔭 I’m currently working on [Restaurant Website](https://github.com/akashkottil/Restaurant-Website)
+---
 
-- 🌱 I’m currently learning **Typescript, Next Js**
+## 🎨 Fun Section
 
-- 💬 Ask me about **MERN, React, Javascript, React Native,**
+![Coding GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
-- 📫 How to reach me **kottilakash@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akashkottil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkottil" height="30" width="40" /></a>
-<a href="https://fb.com/akashkottil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashkottil" height="30" width="40" /></a>
-<a href="https://instagram.com/akash_kottil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_kottil" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkottil&show_icons=true&locale=en" alt="akashkottil" /></p> -->
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkottil&show_icons=true&locale=en&layout=compact" alt="akashkottil" height="200px" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkottil" alt="akashkottil" height="200px" />
-    </td>
-  </tr>
-</table>
-
+> “Code is like humor. When you have to explain it, it’s bad.” 😄
