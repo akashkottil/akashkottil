@@ -36,20 +36,24 @@
 
 ## 🌟 My GitHub Stats
 
-<div align="center">
-  <!-- General GitHub stats -->
+<!-- <div align="center"> -->
+  <!-- General GitHub stats 
   <img src="https://github-readme-stats.vercel.app/api?username=akashkottil&show_icons=true&theme=tokyonight&count_private=true&hide=issues" alt="Akash's GitHub Stats" />
   
-  <!-- Top Languages Card -->
+  <!-- Top Languages Card 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashkottil&theme=dark" alt="Top Languages Used"/>
 
-<!-- GitHub Profile Summary Card -->
+<!-- GitHub Profile Summary Card 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashkottil&theme=dark" alt="GitHub Profile Summary"/>
 
-  
+  -->
+
+  <p align="center">
+<a href="https://github.com/akashkottil"><img src="https://streak-stats.demolab.com?user=ayeshanweerasuriya&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" /></a>
+</p>
 
 
-</div>
+<!-- </div> -->
 
 
 
