@@ -31,11 +31,11 @@ Small, copy-paste-friendly fixes for things SwiftUI makes harder than they shoul
 | Repo | What it does | Stars |
 |---|---|---|
 | [**swipeback-gesture-in-custom-navbar-swiftUI**](https://github.com/akashkottil/swipeback-gesture-in-custom-navbar-swiftUI) | A complete SwiftUI solution for implementing custom navigation bar back buttons while preserving the native… | ★ 9 |
+| [**masonry-layout-swiftui**](https://github.com/akashkottil/masonry-layout-swiftui) | A reusable, responsive Pinterest-style masonry grid for SwiftUI, with configurable columns and variable-hei… | ★ 6 |
+| [**MarqueeText**](https://github.com/akashkottil/MarqueeText) | A lightweight SwiftUI marquee: long text scrolls horizontally only when it overflows. Handy for tickers and… | ★ 4 |
 | [**View-HideTabBar-Swift**](https://github.com/akashkottil/View-HideTabBar-Swift) | A tiny SwiftUI helper that hides the Tab Bar only on specific pushed screens—so your detail pages (like Cou… | ★ 2 |
 | [**Network-Logger**](https://github.com/akashkottil/Network-Logger) | Network Logger / cURL Logger for iOS / Swift / Alamofire  This is a lightweight Swift library / utility to… | ★ 1 |
 | [**matched-geometry-collapse-Demo**](https://github.com/akashkottil/matched-geometry-collapse-Demo) | A tiny SwiftUI demo that shows how to build a sticky, collapsible header whose content morphs and moves as… | ★ 1 |
-| [**swiftui-localization-extractor.py**](https://github.com/akashkottil/swiftui-localization-extractor.py) | This tool helps Swift/SwiftUI developers find and extract all hardcoded user-facing text in their projects,… | ★ 1 |
-| [**text-localizing-script.py**](https://github.com/akashkottil/text-localizing-script.py) | converts the text to localized format based on the key and text that already in the localizable.strings | ★ 1 |
 <!-- OSS:end -->
 
 ### Activity
