@@ -1,0 +1,40 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # daily, 03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/**, .github/workflows/refresh.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Regenerate cards and README sections
+        env:
+          # Optional PROFILE_TOKEN (fine-grained PAT, read-only metadata on all
+          # repos) folds private repos into language totals; falls back to the
+          # default token, which only sees public repos.
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+        run: node scripts/update.mjs
+      - name: Commit if anything changed
+        run: |
+          git config user.name "Akash Kottil"
+          git config user.email "kottilakash@gmail.com"
+          git add README.md assets
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh profile [skip ci]"
+          git push
