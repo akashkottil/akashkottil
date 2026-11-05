@@ -49,9 +49,9 @@ Small, copy-paste-friendly fixes for things SwiftUI makes harder than they shoul
 <summary><b>Recent public activity</b> <sub>(refreshes daily; most of my work is in private repos)</sub></summary>
 
 <!-- RECENT:start -->
-- 🔨 Pushed to [akashkottil/zelexto-landing](https://github.com/akashkottil/zelexto-landing) · <sub>yesterday</sub>
-- 🔨 Pushed to [akashkottil/akashkottil](https://github.com/akashkottil/akashkottil) · <sub>yesterday</sub>
-- 🔀 Opened a PR in [akashkottil/zelexto-landing](https://github.com/akashkottil/zelexto-landing) · <sub>yesterday</sub>
+- 🔨 Pushed to [akashkottil/zelexto-landing](https://github.com/akashkottil/zelexto-landing) · <sub>3 days ago</sub>
+- 🔨 Pushed to [akashkottil/akashkottil](https://github.com/akashkottil/akashkottil) · <sub>3 days ago</sub>
+- 🔀 Opened a PR in [akashkottil/zelexto-landing](https://github.com/akashkottil/zelexto-landing) · <sub>3 days ago</sub>
 <!-- RECENT:end -->
 
 </details>
