@@ -49,11 +49,11 @@ Small, copy-paste-friendly fixes for things SwiftUI makes harder than they shoul
 <summary><b>Recent public activity</b> <sub>(refreshes daily; most of my work is in private repos)</sub></summary>
 
 <!-- RECENT:start -->
-- 🔨 Pushed to [zelcodes-io/zelcodes-io.github.io](https://github.com/zelcodes-io/zelcodes-io.github.io) · <sub>4 days ago</sub>
-- 🔨 Pushed to [akashkottil/Zelcodes-Graphic_Designer](https://github.com/akashkottil/Zelcodes-Graphic_Designer) · <sub>4 days ago</sub>
-- 🔨 Pushed to [akashkottil/zelexto-landing](https://github.com/akashkottil/zelexto-landing) · <sub>9 days ago</sub>
-- 🔨 Pushed to [akashkottil/akashkottil](https://github.com/akashkottil/akashkottil) · <sub>9 days ago</sub>
-- 🔀 Opened a PR in [akashkottil/zelexto-landing](https://github.com/akashkottil/zelexto-landing) · <sub>9 days ago</sub>
+- 🔨 Pushed to [zelcodes-io/zelcodes-io.github.io](https://github.com/zelcodes-io/zelcodes-io.github.io) · <sub>5 days ago</sub>
+- 🔨 Pushed to [akashkottil/Zelcodes-Graphic_Designer](https://github.com/akashkottil/Zelcodes-Graphic_Designer) · <sub>5 days ago</sub>
+- 🔨 Pushed to [akashkottil/zelexto-landing](https://github.com/akashkottil/zelexto-landing) · <sub>10 days ago</sub>
+- 🔨 Pushed to [akashkottil/akashkottil](https://github.com/akashkottil/akashkottil) · <sub>10 days ago</sub>
+- 🔀 Opened a PR in [akashkottil/zelexto-landing](https://github.com/akashkottil/zelexto-landing) · <sub>10 days ago</sub>
 <!-- RECENT:end -->
 
 </details>
